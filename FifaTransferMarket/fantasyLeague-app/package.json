@@ -1,0 +1,20 @@
+{
+  "name": "fanatasyLeague-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "dotenv": "^16.0.0",
+    "express": "^4.16.4",
+    "web3": "^1.7.3"
+  },
+  "devDependencies": {
+    "openzeppelin-solidity": "^4.6.0"
+  }
+}
